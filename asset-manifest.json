@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecovialTest/static/css/main.3d52c57a.css",
-    "main.js": "/ecovialTest/static/js/main.c400f235.js",
+    "main.js": "/ecovialTest/static/js/main.04a8ea28.js",
     "static/media/llanta3.png": "/ecovialTest/static/media/llanta3.a711e0ae45d84511c833.png",
     "static/media/testimonial1.mp4": "/ecovialTest/static/media/testimonial1.e22b3a6e249e88c9a744.mp4",
     "static/media/testimonial2.mp4": "/ecovialTest/static/media/testimonial2.e22b3a6e249e88c9a744.mp4",
@@ -35,10 +35,10 @@
     "static/media/appstore.svg": "/ecovialTest/static/media/appstore.35481c6295b0744dfcc00d35874fbdd8.svg",
     "index.html": "/ecovialTest/index.html",
     "main.3d52c57a.css.map": "/ecovialTest/static/css/main.3d52c57a.css.map",
-    "main.c400f235.js.map": "/ecovialTest/static/js/main.c400f235.js.map"
+    "main.04a8ea28.js.map": "/ecovialTest/static/js/main.04a8ea28.js.map"
   },
   "entrypoints": [
     "static/css/main.3d52c57a.css",
-    "static/js/main.c400f235.js"
+    "static/js/main.04a8ea28.js"
   ]
 }
